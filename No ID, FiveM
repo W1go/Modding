@@ -1,0 +1,9 @@
+1. inject eulen or another injecter to execute scripts
+2. When you are in the loadingscreen you have 5 seconds stop a resources called "vrp_mysql"
+3. You can shop or any thing before you execute this scrip
+
+local ped = PlayerPedId()
+                    SetCanAttackFriendly(ped, true, true)
+                    NetworkSetFriendlyFireOption(true)
+
+THIS ONLY WORK ON VRP FILES

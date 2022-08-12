@@ -1,2 +1,0 @@
-- 👋 Hi, I’m W1go
-- I cracked this for you guys
